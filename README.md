@@ -1,1 +1,1 @@
-# Disease-and-SocialResponse-Spread
+# Disease-and-Social-Response-Spread
